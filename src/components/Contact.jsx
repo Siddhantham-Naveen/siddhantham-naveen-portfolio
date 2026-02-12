@@ -54,7 +54,7 @@ export function Contact() {
           </a>
           <span className="flex items-center gap-2 px-4 py-2 rounded-xl glass-card border border-white/10 text-slate-500">
             <HiPhone className="text-lg" />
-            +91 9xxxxxxxxx
+            +91 8008202540
           </span>
         </div>
 
